@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StudPlan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MyStudPlan</string>
+    <string name="nav_header_subtitle">Plan your semester</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Time Table</string>
+    <string name="menu_gallery">Calendar</string>
+    <string name="menu_slideshow">Activities</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">LSF</string>
+    <string name="menu_send">WebMail</string>
+    <string name="mytimetable">MyTimeTable</string>
+    <string name="neuer_eintrag">Neuer Eintrag:</string>
+    <string name="hier_eingabe">Hier Eingabe</string>
+    <string name="hinzuf_gen">Hinzufügen</string>
+</resources>
